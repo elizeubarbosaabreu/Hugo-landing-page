@@ -1,0 +1,44 @@
+Aqui está o conteúdo estruturado para você criar o seu arquivo `.txt` e alimentar uma Inteligência Artificial. Este roteiro utiliza as informações técnicas e estratégicas extraídas diretamente das fontes para garantir que o seu infoproduto seja posicionado como uma solução de alta performance.
+
+---
+
+### **Instruções para o Agente de IA: Criação de Infoproduto Hugo Web Performance**
+
+**1. Contexto do Produto**
+*   **Produto Principal:** E-book "Hugo: Sites Rápidos, Modernos e Escaláveis". Um guia profissional que ensina a construir a "Web Moderna" focada em performance, segurança e baixo custo.
+*   **Bônus 1:** E-book "Markdown: Guia Completo do Básico ao Avançado". Ensina a linguagem universal de organização digital e documentação técnica.
+*   **Bônus 2:** "Hugo Landing Pack" com 50 modelos de landing pages de alta conversão (SaaS, Portfólios, Eventos, etc.) já prontos para uso.
+*   **Bônus 3:** "Hugo Linktree", um modelo minimalista para agregadores de links de bio, eliminando a dependência de serviços de terceiros.
+
+**2. Proposta de Valor e Diferenciais (Pilar da Cópia)**
+*   **Velocidade Extrema:** O Hugo é um dos geradores de sites estáticos mais rápidos do mundo, gerando milhares de páginas em segundos.
+*   **SEO de Elite:** Sites leves que atendem aos requisitos do Google (Core Web Vitals), melhorando o ranqueamento orgânico.
+*   **Custo Zero de Hospedagem:** Publicação gratuita em plataformas como GitHub Pages, Netlify e Vercel.
+*   **Segurança Superior:** Por não utilizar bancos de dados ou plugins pesados, a superfície de ataque é drasticamente reduzida.
+*   **Profissionalismo:** O aluno aprende a usar o GitHub como currículo técnico e a transformar performance em um serviço lucrativo.
+
+**3. Descrição para Página de Vendas (Copywriting)**
+*   **Headline Sugerida:** "Domine a Web de Alta Performance: Crie Sites que Carregam em Milissegundos e Pare de Depender de Ferramentas Lentas e Caras."
+*   **Problema:** Excesso de plugins, servidores lentos, vulnerabilidades de segurança e custos mensais de hospedagem.
+*   **Solução:** A arquitetura de sites estáticos com Hugo. Sites inabaláveis, escaláveis e com performance global.
+*   **Conteúdo do E-book Hugo:** Desde a anatomia de um projeto profissional até SEO avançado e deploy automatizado.
+*   **Oferta de Bônus:** Destaque o "Hugo Landing Pack" como o atalho para o lucro, permitindo que o comprador venda páginas para diversos nichos (médicos, advogados, SaaS) imediatamente.
+
+**4. Roteiro para Anúncios (Ads)**
+*   **Gancho 1 (Performance):** "Seu site demora mais de 3 segundos para carregar? O Google está te penalizando. Descubra como criar páginas ultrarrápidas com Hugo.".
+*   **Gancho 2 (Carreira/Freelancer):** "Transforme Hugo em uma fonte de renda. Aprenda a entregar sites institucionais e landing pages de alta conversão com custo de manutenção zero.".
+*   **Gancho 3 (Técnico):** "Chega de WordPress pesado. Aprenda a mentalidade moderna do desenvolvimento web: Markdown + Hugo + Deploy Automatizado.".
+
+**5. Desenvolvimento de Landing Pages (Diretrizes Técnicas)**
+*   **Estrutura de Conversão:** A página deve seguir o fluxo: Hero Section (Título claro + CTA) -> Benefícios -> Prova Social -> Oferta -> FAQ -> Formulário de Captura.
+*   **Captura de Leads:** Integrar formulários sem backend complexo usando serviços como Formspree, Netlify Forms ou Getform.
+*   **Personalização:** Utilizar os templates do "Landing Pack" que já vêm com designs responsivos e layouts otimizados.
+*   **Identidade Visual:** Focar em tipografia limpa, contraste e espaçamento adequado para transmitir profissionalismo.
+
+**6. Instruções de Suporte e Desenvolvimento (Para o Aluno)**
+*   **Instalação:** Priorizar a versão **extended** do Hugo para suporte a SCSS/SASS.
+*   **Markdown:** Utilizar metadados (Front Matter) para controle total de SEO e organização de conteúdo.
+*   **Deploy:** Configurar o fluxo profissional: Altera conteúdo -> Push no Git -> Deploy automático na Vercel/Netlify.
+
+---
+**Observação Importante:** Este arquivo deve ser usado como guia de referência para a IA gerar textos específicos de e-mails, posts de redes sociais e scripts de vídeo, garantindo que ela sempre cite os benefícios técnicos reais (performance, SEO, segurança) presentes nas fontes originais.
